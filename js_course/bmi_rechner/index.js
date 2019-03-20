@@ -20,4 +20,4 @@ let sum = function (x, y) {
 let result = sum(1,2);
 console.log(result); 
 
-run1("Das ist mit Parametern berechnet: " + result);
+run1("Das ist mit Parametern berechnet: " + result); 
